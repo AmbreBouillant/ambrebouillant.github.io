@@ -51,3 +51,21 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// =====================================================================
+// Couleurs d'accent personnalisées
+// =====================================================================
+
+// Mode clair : vert mousse profond
+html[data-theme="light"] {
+  --global-theme-color:       #3d6e3d;
+  --global-hover-color:       #2b4f2b;     // version plus foncée pour le hover
+  --global-text-color-light:  #3d6e3d;
+}
+
+// Mode sombre : ocre doré
+html[data-theme="dark"] {
+  --global-theme-color:       #d9a626;
+  --global-hover-color:       #e8b94d;     // version plus claire pour le hover
+  --global-text-color-light:  #d9a626;
+}
