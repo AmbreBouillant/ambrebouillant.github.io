@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+     <p>Bureau 744A — Bâtiment Condorcet</p>
+     <p>Laboratoire MSC — UMR 7057</p>
+     <p>10 rue Alice Domon et Léonie Duquet</p>
+     <p>75013 Paris, France</p>
+     <p>+33 (0)1 57 27 62 50</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
