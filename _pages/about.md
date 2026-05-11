@@ -1,8 +1,12 @@
 ---
 layout: about
-title: Ambre Bouillant
+title: 
 permalink: /
-subtitle: CNRS researcher - <a href='https://msc.u-paris.fr'>MSC</a>, UMR7057, Université Paris Cité - Soft Matter & Fluid mechanics
+subtitle: |
+Ambre Bouillant
+CNRS researcher &middot; <a href='https://msc.u-paris.fr'>MSC</a>
+UMR7057, Université Paris Cité 
+Soft Matter & Fluid mechanics
 
 profile:
   align: right
@@ -15,7 +19,7 @@ profile:
      <p>75013 Paris, France</p>
      <p>+33 (0)1 57 27 62 50</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
