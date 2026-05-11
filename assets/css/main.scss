@@ -34,6 +34,20 @@
 @use "teachings";
 @use "typograms";
 @use "font-awesome/fontawesome";
+// =====================================================================
+// Personnalisations
+// =====================================================================
+
+// Mettre en valeur le nom de l'auteur principal dans la liste des publications.
+// al-folio utilise une balise <em> autour du nom matché par scholar (Bouillant, Ambre)
+// dans _config.yml. On la stylise avec la couleur d'accent du thème.
+.publications {
+  em {
+    color: var(--global-theme-color);
+    font-style: normal;
+    font-weight: 600;
+  }
+}
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
