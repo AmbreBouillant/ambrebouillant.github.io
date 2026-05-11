@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Ambre Bouillant
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CNRS researcher · <a href='https://msc.u-paris.fr'>MSC</a>, Université Paris Cité · Soft Matter & Fluid mechanics
 
 profile:
   align: right
