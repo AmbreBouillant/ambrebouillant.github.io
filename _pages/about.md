@@ -1,11 +1,12 @@
 ---
 layout: about
 title: about
+page_title: Ambre Bouillant
 permalink: /
-subtitle: |
-    Ambre Bouillant
-    CNRS researcher &middot; <a href='https://msc.u-paris.fr'>MSC</a>
-    UMR7057, Université Paris Cité 
+subtitle:
+    Ambre Bouillant <br>
+    CNRS researcher &middot; <a href='https://msc.u-paris.fr'>MSC</a> <br>
+    UMR7057, Université Paris Cité <br>
     Soft Matter & Fluid mechanics
 
 profile:
