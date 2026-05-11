@@ -15,7 +15,7 @@ profile:
      <p>75013 Paris, France</p>
      <p>+33 (0)1 57 27 62 50</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
