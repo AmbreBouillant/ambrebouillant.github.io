@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "Phase change in confined multiphase systems — films, bubbles, drops, emulsions and porous media — at the crossroads of soft matter, interfacial hydrodynamics, capillarity and heat and mass transfer.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "publications sorted in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Here is a collection of the ongoing projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Members and alumni of the group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
