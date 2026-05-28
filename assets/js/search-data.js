@@ -405,11 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse-layout-post-date-2015-10-22-15-59-00-0400-inline-true-related-posts-false-a-simple-inline-announcement",
+          title: 'Alice Mougey and Tristan Simon are presenting their work at the Journées de...',
           description: "",
           section: "News",},{id: "news-clémence-fléchelle-and-hugo-le-roux-are-starting-their-phd-this-month",
           title: 'Clémence Fléchelle and Hugo Le Roux are starting their PhD this month.',
