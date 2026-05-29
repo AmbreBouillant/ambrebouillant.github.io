@@ -408,12 +408,10 @@ ninja.data = [{
             },},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse",
           title: 'Alice Mougey and Tristan Simon are presenting their work at the Journées de...',
           description: "",
-          section: "News",},{id: "news-announcement-3",
-          title: 'Announcement_3',
+          section: "News",},{id: "news-i-am-back-from-my-maternity-leave",
+          title: 'I am back from my maternity leave',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-clémence-fléchelle-and-hugo-le-roux-are-starting-their-phd-this-month",
+          section: "News",},{id: "news-clémence-fléchelle-and-hugo-le-roux-are-starting-their-phd-this-month",
           title: 'Clémence Fléchelle and Hugo Le Roux are starting their PhD this month.',
           description: "",
           section: "News",},{id: "projects-project-1",
