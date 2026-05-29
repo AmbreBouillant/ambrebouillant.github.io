@@ -22,8 +22,6 @@ nav_order: 7
   .tag-intern { border: 1px solid var(--global-theme-color); color: var(--global-theme-color); }
 </style>
 
-I am deeply committed to mentoring students at all levels — from undergraduate interns to PhD candidates — as I see training through research as a central part of our work.
-
 <div class="people-section" markdown="0">
 <h2>PhD students <span class="tag tag-phd">PhD</span></h2>
 
