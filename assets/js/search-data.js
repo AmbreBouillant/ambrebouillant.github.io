@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "Research",
-          description: "Phase change in confined multiphase systems — films, bubbles, drops, emulsions and porous media — at the crossroads of soft matter, interfacial hydrodynamics, capillarity and heat and mass transfer.",
+          title: "research",
+          description: "Phase change in confined and complex multiphase systems — films, bubbles, drops, emulsions and porous media — at the crossroads of soft matter, interfacial hydrodynamics, capillarity and heat and mass transfer.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
