@@ -405,15 +405,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-3",
+            },},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse-layout-post-date-2015-10-22-15-59-00-0400-inline-true-related-posts-false-a-simple-inline-announcement",
+          title: 'Alice Mougey and Tristan Simon are presenting their work at the Journées de...',
+          description: "",
+          section: "News",},{id: "news-announcement-3",
           title: 'Announcement_3',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse-layout-post-date-2015-10-22-15-59-00-0400-inline-true-related-posts-false-a-simple-inline-announcement",
-          title: 'Alice Mougey and Tristan Simon are presenting their work at the Journées de...',
-          description: "",
-          section: "News",},{id: "news-clémence-fléchelle-and-hugo-le-roux-are-starting-their-phd-this-month",
+            },},{id: "news-clémence-fléchelle-and-hugo-le-roux-are-starting-their-phd-this-month",
           title: 'Clémence Fléchelle and Hugo Le Roux are starting their PhD this month.',
           description: "",
           section: "News",},{id: "projects-project-1",
