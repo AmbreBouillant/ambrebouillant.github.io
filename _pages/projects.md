@@ -46,7 +46,7 @@ Using polyvinyl alcohol solutions that phase separate upon heating, we build mod
 
 A bare liquid film should drain and burst within milliseconds, yet surface bubbles survive for seconds when a temperature gradient runs across them. We showed that evaporative cooling of a bubble's apex sets up upward Marangoni flows that oppose gravitational drainage and select the film thickness — a thermal alternative to surfactants, demonstrated for Leidenfrost chimneys and for bubbles on heated oil. The reverse also holds: heating the top of a viscous bubble by just one degree drives downward flows that trigger early rupture. This dual control has drawn the interest of Saint-Gobain, for whom bubbles in molten glass spoil the final material.
 
-<p class="refs">With Wilfried Raff (intern). Related: <a href="/publications/">Thermal Marangoni bubbles</a> (Soft Matter 2022).</p>
+<p class="refs">With Wilfried Raffi (intern) and Martin Coux (SGR/SVI). Related: <a href="/publications/">Thermal Marangoni bubbles</a> (Soft Matter 2022).</p>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ A bare liquid film should drain and burst within milliseconds, yet surface bubbl
 
 Evaporation from a confined liquid usually follows a slow diffusive law, the interface receding as the square root of time. We found that a single air bubble at the surface of a volatile liquid can speed this up by up to an order of magnitude. Schlieren imaging shows why: thermocapillary flows along the bubble funnel the surrounding vapor and eject it as a centimeter-scale plume, short-circuiting the diffusive bottleneck. A scaling model linking plume flux to bubble size matches independent mass-loss measurements. The result speaks to sea-spray aerosol production and drying in porous media, and naturally raises the question of water.
 
-<p class="refs">Xue Ma's PhD, with Axel Huerre and Matthieu Roché (MSC). The water case is the focus of Clémence Fléchelle's upcoming thesis. Submitted, 2026.</p>
+<p class="refs">Xue Ma's PhD, with Axel Huerre and Matthieu Roché (MSC). The water case is the focus of Clémence Fléchelle's upcoming thesis.</p>
   </div>
 </div>
 
@@ -68,9 +68,9 @@ Evaporation from a confined liquid usually follows a slow diffusive law, the int
 ### Non-wetting by heat and motion
 <p class="lead">Two ways to repel a liquid, and what happens when you combine them.</p>
 
-A drop can be kept from wetting a solid either by heating the surface past the Leidenfrost point or by moving it fast enough — both create a thin gas layer that prevents contact. We ask whether these strategies add up. Millimetric drops are launched onto a substrate held at temperature *T* with a tangential velocity *v*, and we measure the levitation threshold. It falls sharply with speed: from about 200 °C at rest down to room temperature near 1.35 m/s, where drops levitate "cold." This hybrid regime is exactly what glass-wool manufacturing faces, where binder droplets meet hot moving fibers.
+A drop can be kept from wetting a solid either by heating the surface past the Leidenfrost point or by moving it fast enough — both create a thin gas layer that prevents contact. We ask whether these strategies add up. Millimetric drops are launched onto a substrate held at temperature *T* with a tangential velocity *v*, and we measure the levitation threshold. It falls sharply with speed: from about 200°C at rest down to room temperature near 1.35 m/s, where drops levitate "cold." This hybrid regime is exactly what glass-wool manufacturing faces, where binder droplets meet hot moving fibers.
 
-<p class="refs">Tristan Simon's CIFRE PhD with Saint-Gobain, with Martin Coux and Laurence Talini (SVI). Related: <a href="/publications/">Aerodynamic repellency of impacting liquids</a> (PRF 2018).</p>
+<p class="refs">Tristan Simon's CIFRE PhD with Saint-Gobain, with Martin Coux (SGR/SVI) and Laurence Talini (SVI). Related: <a href="/publications/">Aerodynamic repellency of impacting liquids</a> (PRF 2018).</p>
   </div>
 </div>
 
@@ -82,7 +82,7 @@ A drop can be kept from wetting a solid either by heating the surface past the L
 
 The polygonal crusts of salt deserts like Uyuni are thought to arise from evaporation coupled to solutal convection in the porous ground. To test this, we dry salted agar hydrogels — transparent, controllable analogues of porous soils — and watch the flows driven by salt accumulation, the onset of instability, and the spatial scales it selects. The goal is to connect evaporation, solute transport and crystallization to the emergence of organized patterns.
 
-<p class="refs">Funded by an IdEx Émergence grant, supporting a PhD student arriving in 2026.</p>
+<p class="refs">Funded by an IdEx Émergence grant.</p>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ Larger puddles, flattened by gravity, can spontaneously adopt pulsating star sha
 
 During my postdoc at Twente, I studied how liquid viscoelasticity affects classical capillary singularities such as pinch-off, coalescence and spreading. While the global dynamics of a coalescing bridge barely change with added polymer, its spatial structure does: the bridge becomes markedly more angular, and a new self-similar structure emerges that collapses the profiles onto a universal curve. Even in tiny amounts, polymers regularize these singularities by introducing new length and time scales into the flow.
 
-<p class="refs"><a href="/publications/">When elasticity affects drop coalescence</a> (PRL 2022), <a href="/publications/">Rapid viscoelastic spreading</a> (PRF 2022). Viscoelastic drainage with Stefan Karpitschka (Göttingen).</p>
+<p class="refs"><a href="/publications/">When elasticity affects drop coalescence</a> (PRL 2022), <a href="/publications/">Rapid viscoelastic spreading</a> (PRF 2022).</p>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ During my postdoc at Twente, I studied how liquid viscoelasticity affects classi
 
 When water vapor condenses on a solid, it forms a breath figure — the fog on cold glasses. I asked what happens when the surface is a soft gel instead, deformable by the capillary pull of each droplet. Using PDMS gels spanning four orders of magnitude in elastic modulus, I found that softer substrates nucleate far more droplets, and that once a first generation has formed, almost no new droplets appear between them. This contradicts both classical nucleation theory and standard elastocapillarity, since nucleation occurs at scales far below the elastocapillary length. Working with Bruno Andreotti, we showed that the vapor depletion around growing droplets not only slows their growth but screens nucleation in their vicinity, setting the droplet density from the very first instants. A collaboration with Uwe Thiele (Münster) further captured this through a mesoscopic gradient-dynamics model. These breath figures stay remarkably monodisperse, even at long times, offering a route to control condensation patterns.
 
-<p class="refs"><a href="/publications/">Collective effects in breath figures</a> (PRF 2025), <a href="/publications/">Soft condensation</a> (PRL 2025), <a href="/publications/">Condensation on soft substrates: a mesoscopic perspective</a> (Mater. Adv. 2026). Master's work of Jim Scheefhals.</p>
+<p class="refs"><a href="/publications/">Collective effects in breath figures</a> (PRF 2025), <a href="/publications/">Soft condensation</a> (PRL 2025), <a href="/publications/">Condensation on soft substrates: a mesoscopic perspective</a> (Mater. Adv. 2026). </p>
   </div>
 </div>
 
@@ -134,7 +134,7 @@ When water vapor condenses on a solid, it forms a breath figure — the fog on c
 
 When a freezing front meets a bubble, the competition between front speed and capillarity selects the final shape — from smooth engulfment with a singular tip to a stratified fragmentation, echoing the bubble columns of frozen lakes. At a larger scale, we study how freeze–thaw cycles in CO₂-laden water trap and release gas, as a model for permafrost, a major reservoir of greenhouse gases under a warming climate.
 
-<p class="refs">Internships of Aymane Legssyer and Anne-Lou Pinot (frozen bubbles, with Caroline Cohen and Axel Huerre) and Céline Chebieb (freeze–thaw, with Axel Huerre).</p>
+<p class="refs"> Frozen bubbles were studied during the internships of Aymane Legssyer and Anne-Lou Pinot, with Caroline Cohen and Axel Huerre. Freeze–thaw was explored during Céline Chebieb's internship, co-supervised with Axel Huerre.</p>
   </div>
 </div>
 
@@ -144,9 +144,9 @@ When a freezing front meets a bubble, the competition between front speed and ca
   <div class="proj-img"><img src="{{ '/assets/img/proj_side.jpg' | relative_url }}" alt="Side projects"></div>
   <div class="proj-body" markdown="1">
 ### Exploratory work
-<p class="lead">Curiosity-driven problems, often born from teaching or internships.</p>
+<p class="lead">Curiosity-driven problems, often born from teaching (experimental projects in polytechnique).</p>
 
-Alongside my main themes, I pursue more exploratory questions. We showed that the *Cheerios* attraction between floating objects gains a new, strongly dissipative lubrication regime in very viscous baths. The *rainbow twirler* — a toy of elastic ribbons under rotation — turns out to be well described by an Elastica equation enriched with inertia. I also study the peeling of ribbons from soft sticky gels, where elastocapillarity controls fingering at the peeling front. Earlier, during a research internship, I showed that marine choanoflagellates navigate oxygen gradients by a run-and-tumble strategy with logarithmic sensitivity.
+Alongside my main themes, I pursue more exploratory curiosity-driven questions. We showed that the *Cheerios* attraction between floating objects gains a new, strongly dissipative lubrication regime in very viscous baths. The *rainbow twirler* — a toy of elastic ribbons under rotation — turns out to be well described by an Elastica equation enriched with inertia. I also study the peeling of ribbons from soft sticky gels, where elastocapillarity controls fingering at the peeling front. Earlier, during a research internship, I showed that marine choanoflagellates navigate oxygen gradients by a run-and-tumble strategy with logarithmic sensitivity.
 
 <p class="refs"><a href="/publications/">Aerotaxis in the closest relatives of animals</a> (eLife 2016). Cheerios (Martin Trébosc) and twirler (with E. Reyssat) in preparation; peeling work with Menno Cornelissen.</p>
   </div>
