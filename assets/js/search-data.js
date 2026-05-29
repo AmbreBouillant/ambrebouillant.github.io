@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse-layout-post-date-2015-10-22-15-59-00-0400-inline-true-related-posts-false-a-simple-inline-announcement",
+            },},{id: "news-alice-mougey-and-tristan-simon-are-presenting-their-work-at-the-journées-de-la-matière-condensée-in-toulouse",
           title: 'Alice Mougey and Tristan Simon are presenting their work at the Journées de...',
           description: "",
           section: "News",},{id: "news-announcement-3",
