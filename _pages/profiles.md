@@ -39,13 +39,13 @@ nav_order: 7
 
 <div class="person">
   <span class="name">Hugo Le Roux</span> <span class="role">— from October 2026</span>
-  <span class="topic">Viscoelastic effects on condensation in phase-separating polymer solutions.</span>
-  <span class="cosup">Co-supervised with Mathilde Reyssat and Élie Raphaël (Gulliver, ESPCI).</span>
+  <span class="topic">Mesoscopic nucleation in phase-separating polymer solutions.</span>
+  <span class="cosup">Co-supervised with Mathilde Reyssat (Gulliver, ESPCI).</span>
 </div>
 
 <div class="person">
   <span class="name">Clémence Fléchelle</span> <span class="role">— from October 2026</span>
-  <span class="topic">Thermocapillary flows around surface bubbles: flows, heat transfer and bursting dynamics.</span>
+  <span class="topic">Thermocapillary flows around water surface bubbles: flows, heat transfer and bursting dynamics.</span>
 </div>
 </div>
 
