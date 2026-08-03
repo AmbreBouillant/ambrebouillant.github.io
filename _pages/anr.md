@@ -17,7 +17,6 @@ description:
 | **Scientific committee** | CE30 — Physique de la matière condensée (2025) |
 | **Host institution** | MSC (CNRS / Université Paris Cité) |
 | **Principal investigator** | Ambre Bouillant (CNRS) |
-| **ANR funding** | €376,942 |
 | **Duration** | March 2026 – February 2030 (48 months) |
 
 > Classical nucleation theory has long resisted experimental validation, largely because critical nuclei are nanometric — far below optical resolution — so that by the time droplets become visible, other mechanisms have already blurred the picture. MORNING sidesteps this limit by studying condensation in polymer blends, where nuclei appear at mesoscopic, optically resolvable scales, giving direct access to the kinetic and thermodynamic aspects of nucleation theory.\
