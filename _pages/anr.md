@@ -4,10 +4,7 @@ permalink: /anr/
 title: ANR
 nav: true
 nav_order: 3
-description: ANR-funded projects — grant details, team, and acknowledgment text.
----
-
-## MORNING
+description: <span style="color: var(--global-theme-color);">MORNING</span>
 
 *Mesoscopic, optically-resolved nucleation & interactive growth in condensation processes*
 
