@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-anr",
-          title: "ANR",
-          description: "ANR-funded projects — grant details, team, and acknowledgment text.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/anr/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "Members and alumni of the group.",
