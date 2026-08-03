@@ -13,7 +13,7 @@ nav_order: 7
   .person .name { font-weight: 600; font-size: 1.05rem; }
   .person .role { color: var(--global-text-color-light); font-style: italic; font-size: 0.9rem; }
   .person .topic { display: block; margin-top: 0.15rem; }
-  .person .cosup { color: var(--global-text-color-light); font-size: 0.88rem; }
+  .person .cosup { color: var(--global-text-color-light); font-size: 0.88rem; display: block; }
   .tag { display: inline-block; font-size: 0.72rem; font-weight: 600; text-transform: uppercase;
          letter-spacing: 0.04em; padding: 0.1rem 0.5rem; border-radius: 1rem; margin-left: 0.4rem;
          vertical-align: middle; }
@@ -29,7 +29,7 @@ nav_order: 7
   <span class="name">Alice Mougey</span> <span class="role">— 2024–present</span>
   <span class="topic">Liquid–liquid condensation in phase-separating polymer solutions.</span>
   <span class="cosup">Co-supervised with Mathilde Reyssat and Élie Raphaël (Gulliver, ESPCI). Defense expected 2027.</span>
-  <span class="cosup">Funded by Ecole Normale Supérieure (CDSN).</span>
+  <span class="cosup">Funded by École Normale Supérieure through a CDSN (contrat doctoral spécifique normalien).</span>
 </div>
 
 <div class="person">
@@ -43,8 +43,7 @@ nav_order: 7
   <span class="name">Hugo Le Roux</span> <span class="role">— from October 2026</span>
   <span class="topic">Mesoscopic nucleation in phase-separating polymer solutions.</span>
   <span class="cosup">Co-supervised with Mathilde Reyssat (Gulliver, ESPCI).</span>
-  <span class="cosup">Funded by the French National Research Agency (ANR) under grant ANR-25-CE30-2819 (project MORNING)</span>
-
+  <span class="cosup">Funded by the French National Research Agency (ANR) under grant ANR-25-CE30-2819 (project MORNING).</span>
 </div>
 
 <div class="person">
@@ -95,5 +94,10 @@ nav_order: 7
 <div class="person">
   <span class="name">Danaé Le Bert</span> <span class="role">— M1</span>
   <span class="topic">Interactions between vapor plumes produced by two neighboring bubbles.</span>
+</div>
+
+<div class="person">
+  <span class="name">Léo Verjux</span> <span class="role">— L3</span>
+  <span class="topic">Nucleation and bubble banding in directional solidification.</span>
 </div>
 </div>
