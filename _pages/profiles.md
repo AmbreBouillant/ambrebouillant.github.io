@@ -29,23 +29,28 @@ nav_order: 7
   <span class="name">Alice Mougey</span> <span class="role">— 2024–present</span>
   <span class="topic">Liquid–liquid condensation in phase-separating polymer solutions.</span>
   <span class="cosup">Co-supervised with Mathilde Reyssat and Élie Raphaël (Gulliver, ESPCI). Defense expected 2027.</span>
+  <span class="cosup">Funded by Ecole Normale Supérieure (CDSN).</span>
 </div>
 
 <div class="person">
   <span class="name">Tristan Simon</span> <span class="role">— 2025–present (CIFRE)</span>
   <span class="topic">Repelling liquid drops with heat and motion.</span>
   <span class="cosup">Co-supervised with Martin Coux and Laurence Talini (SVI, CNRS / Saint-Gobain Research).</span>
+  <span class="cosup">Funded by Saint Gobain Research (CIFRE).</span>
 </div>
 
 <div class="person">
   <span class="name">Hugo Le Roux</span> <span class="role">— from October 2026</span>
   <span class="topic">Mesoscopic nucleation in phase-separating polymer solutions.</span>
   <span class="cosup">Co-supervised with Mathilde Reyssat (Gulliver, ESPCI).</span>
+  <span class="cosup">Funded by the French National Research Agency (ANR) under grant ANR-25-CE30-2819 (project MORNING)</span>
+
 </div>
 
 <div class="person">
   <span class="name">Clémence Fléchelle</span> <span class="role">— from October 2026</span>
   <span class="topic">Thermocapillary flows around water surface bubbles: flows, heat transfer and bursting dynamics.</span>
+  <span class="cosup">Funded by EDPIF.</span>
 </div>
 </div>
 
@@ -83,7 +88,7 @@ nav_order: 7
 </div>
 
 <div class="person">
-  <span class="name">Wilfried Raff</span> <span class="role">— M1</span>
+  <span class="name">Wilfried Raffi</span> <span class="role">— M1</span>
   <span class="topic">Thermocapillary destabilization of ultra-viscous bubbles.</span>
 </div>
 
