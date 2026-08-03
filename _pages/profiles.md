@@ -64,7 +64,7 @@ nav_order: 7
 </div>
 
 <div class="people-section" markdown="0">
-<h2>Internships <span class="tag tag-intern">Interns</span></h2>
+<h2>Previous interns <span class="tag tag-intern">Interns</span></h2>
 
 <div class="person">
   <span class="name">Aymane Legssyer</span> <span class="role">— L3</span>
