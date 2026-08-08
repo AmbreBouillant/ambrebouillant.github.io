@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-anr",
+          title: "ANR",
+          description: "Mesoscopic, optically-resolved nucleation &amp; interactive growth in condensation processes",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/anr/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "Members and alumni of the group.",
