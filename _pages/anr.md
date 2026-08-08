@@ -4,8 +4,10 @@ permalink: /anr/
 title: ANR
 nav: true
 nav_order: 3
-description: ## <span style="color: var(--global-theme-color);">MORNING</span>
+description: Mesoscopic, optically-resolved nucleation & interactive growth in condensation processes
+---
 
+## <span style="color: var(--global-theme-color);">MORNING</span>
 *Mesoscopic, optically-resolved nucleation & interactive growth in condensation processes*
 
 | | |
@@ -17,7 +19,8 @@ description: ## <span style="color: var(--global-theme-color);">MORNING</span>
 | **Principal investigator** | Ambre Bouillant (CNRS) |
 | **Duration** | March 2026 – February 2030 (48 months) |
 
-> Classical nucleation theory has long resisted experimental validation, largely because critical nuclei are nanometric — far below optical resolution — so that by the time droplets become visible, other mechanisms have already blurred the picture. MORNING sidesteps this limit by studying condensation in polymer blends, where nuclei appear at mesoscopic, optically resolvable scales, giving direct access to the kinetic and thermodynamic aspects of nucleation theory.\
+> Classical nucleation theory has long resisted experimental validation, largely because critical nuclei are nanometric — far below optical resolution — so that by the time droplets become visible, other mechanisms have already blurred the picture. MORNING sidesteps this limit by studying condensation in polymer blends, where nuclei appear at mesoscopic, optically resolvable scales, giving direct access to the kinetic and thermodynamic aspects of nucleation theory.
+>
 > The project is also motivated by biomolecular condensates — droplets that assemble in living cells, without a membrane, through condensation of a biomolecule mixture. These condensates defy the usual rules of phase transitions: their growth arrests at a finite size and their density stays fixed, giving them a remarkable stability that remains poorly understood. The working hypothesis is that this stability comes from the complexity of the cellular environment itself — its confinement, crowding, or elasticity — freezing the phase transition in place. Model experiments with synthetic polymers are used to isolate the role of each of these factors, with the broader aim of exploring the coupling between phase change and elastocapillarity, and of developing controllable, biomimetic emulsions with high stability.
 
 <span style="color: var(--global-theme-color);">**Team (MSC)**</span><br>
