@@ -4,9 +4,7 @@ permalink: /anr/
 title: ANR
 nav: true
 nav_order: 3
-description:
-
-## <span style="color: var(--global-theme-color);">MORNING</span>
+description: ## <span style="color: var(--global-theme-color);">MORNING</span>
 
 *Mesoscopic, optically-resolved nucleation & interactive growth in condensation processes*
 
